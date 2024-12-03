@@ -1,0 +1,1 @@
+/usr/bin/clang++ -DQT_QML_DEBUG -g -Xlinker --dependency-file -Xlinker CMakeFiles/pacman.dir/link.d CMakeFiles/pacman.dir/pacman_autogen/mocs_compilation.cpp.o CMakeFiles/pacman.dir/main.cpp.o CMakeFiles/pacman.dir/mainwindow.cpp.o -o pacman  /usr/lib/libQt5Widgets.so.5.15.16 /usr/lib/libQt5Gui.so.5.15.16 /usr/lib/libQt5Core.so.5.15.16
